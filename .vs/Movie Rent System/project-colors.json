@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4cc8059b-af66-4d0c-82a2-b1558bb5bab5": {
+      "ProjectGuid": "4cc8059b-af66-4d0c-82a2-b1558bb5bab5",
+      "DisplayName": "Movie Rent System",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
